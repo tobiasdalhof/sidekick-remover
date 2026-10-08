@@ -3,6 +3,12 @@
   "name": "Sidekick Remover",
   "version": "0.1.0",
   "description": "Remove floating Sidekick chat bar from Shopify Admin.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "sidekick-remover@tobiasdalhof.github.io",
+      "strict_min_version": "109.0"
+    }
+  },
   "icons": {
     "16": "icons/icon16.png",
     "24": "icons/icon24.png",
