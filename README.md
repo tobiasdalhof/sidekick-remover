@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tobiasdalhof/sidekick-remover/main/extension/icons/icon64.png" alt="Sidekick Remover" width="64" height="64">
+  <img src="https://raw.githubusercontent.com/tobiasdalhof/sidekick-remover/main/extension/icons/icon128.png" alt="Sidekick Remover" width="96" height="96">
 
   <h1>Sidekick Remover</h1>
 
@@ -28,9 +28,13 @@ In the meantime, you can load the extension temporarily using the development in
 
 ## Development
 
+Development requires [Node.js](https://nodejs.org/) and [pnpm](https://pnpm.io/).
+
+### Setup
+
 1. Clone this repository.
 2. Install dependencies with `pnpm install`.
-3. Build the extension with `pnpm build`.
+3. Start development mode with `pnpm dev`.
 
 ### Chrome
 
@@ -44,9 +48,14 @@ Requires Firefox 142 or later. Temporary add-ons are removed when Firefox restar
 
 ### Building
 
-Run `pnpm dev` to automatically rebuild the extension when files change. Reload the extension in your browser to apply changes.
-
-Run `pnpm zip` to create a distribution archive (requires `7z`).
+| Command          | Description                                                                  |
+| ---------------- | ---------------------------------------------------------------------------- |
+| `pnpm dev`       | Watch for changes and automatically rebuild the extension.                   |
+| `pnpm build`     | Type-check and create a production build.                                    |
+| `pnpm typecheck` | Check TypeScript types without building.                                     |
+| `pnpm lint`      | Check for ESLint errors.                                                     |
+| `pnpm lint:fix`  | Automatically fix ESLint errors where possible.                              |
+| `pnpm zip`       | Create a production build and package it as `extension.zip` (requires `7z`). |
 
 ## License
 
