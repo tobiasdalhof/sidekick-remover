@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tobiasdalhof/sidekick-remover/main/extension/icons/icon128.png" alt="Sidekick Remover" width="96" height="96">
+  <img src="https://raw.githubusercontent.com/tobiasdalhof/sidekick-remover/main/extension/icons/icon64.png" alt="Sidekick Remover" width="64" height="64">
 
   <h1>Sidekick Remover</h1>
 
