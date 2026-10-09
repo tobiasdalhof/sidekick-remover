@@ -18,7 +18,7 @@ I built this extension because I'm tired of Shopify forcing unwanted AI slop int
 
 ### Chrome
 
-Install [Sidekick Remover from the Chrome Web Store](https://chromewebstore.google.com/detail/sidekick-remover/lneifodgmhfelpffdkemfgeaogcpkcjn).
+[Install from Chrome Web Store](https://chromewebstore.google.com/detail/sidekick-remover/lneifodgmhfelpffdkemfgeaogcpkcjn)
 
 ### Firefox
 
