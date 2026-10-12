@@ -8,6 +8,9 @@
   <a href="https://chromewebstore.google.com/detail/sidekick-remover/lneifodgmhfelpffdkemfgeaogcpkcjn">
     <img src="https://img.shields.io/chrome-web-store/v/lneifodgmhfelpffdkemfgeaogcpkcjn?style=for-the-badge&logo=google-chrome&logoColor=white&label=Chrome%20Web%20Store" alt="Chrome Web Store version">
   </a>
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/sidekick-remover/">
+    <img src="https://img.shields.io/amo/v/sidekick-remover?style=for-the-badge&logo=firefoxbrowser&logoColor=white&label=Firefox%20Add-ons" alt="Firefox Add-ons version">
+  </a>
 </div>
 
 ## Why?
@@ -22,9 +25,7 @@ I built this extension because I'm tired of Shopify forcing unwanted AI slop int
 
 ### Firefox
 
-Sidekick Remover has been submitted to Firefox Add-ons and is currently awaiting review.
-
-In the meantime, you can load the extension temporarily using the development instructions below.
+[Install from Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/sidekick-remover/)
 
 ## Development
 
