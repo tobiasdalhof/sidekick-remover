@@ -18,11 +18,11 @@
 
 Nothing against Sidekick. I'm sure it's useful for many merchants, but not everyone needs or wants a floating chat bar following them around Shopify Admin.
 
-What bothers me most is that Sidekick appears even inside third-party apps, most of which don't integrate with it. So you end up with a chat bar taking up screen space in places where it can't actually do much.
+What bothers me most is that Sidekick appears even inside third-party apps, most of which don't integrate with it. This means the chat bar takes up valuable screen space even where it can't do much.
 
-I prefer a clean, distraction-free interface, so I built this extension for anyone who feels the same. It's a small fix for something that should really be a personal choice.
+I prefer a cleaner, less cluttered interface, so I built this extension for anyone who feels the same. It's a small fix for something that should really be a personal choice.
 
-If Shopify adds a native option to hide Sidekick or moves it somewhere less intrusive, I'll happily archive this project.
+If Shopify introduces a native option to hide Sidekick or moves it somewhere less intrusive, I'll happily archive this extension.
 
 ## Installation
 
