@@ -16,7 +16,13 @@
 
 ## Why?
 
-I built this extension because I'm tired of Shopify forcing unwanted AI slop into an interface that worked perfectly fine without it. Sidekick Remover simply hides the intrusive floating Sidekick bar and gets it out of the way.
+Nothing against Sidekick. I'm sure it's useful for many merchants, but not everyone needs or wants a floating chat bar following them around Shopify Admin.
+
+What bothers me most is that Sidekick appears even inside third-party apps, most of which don't integrate with it. So you end up with a chat bar taking up screen space in places where it can't actually do much.
+
+I prefer a clean, distraction-free interface, so I built this extension for anyone who feels the same. It's a small fix for something that should really be a personal choice.
+
+If Shopify adds a native option to hide Sidekick or moves it somewhere less intrusive, I'll happily archive this project.
 
 ## Installation
 
