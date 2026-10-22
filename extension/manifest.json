@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Sidekick Remover - Remove Sidekick from Shopify Admin",
+  "name": "Sidekick Remover - Remove Shopify Sidekick",
   "version": "0.1.2",
   "description": "A browser extension that removes the floating Sidekick chat bar from Shopify Admin.",
   "browser_specific_settings": {
