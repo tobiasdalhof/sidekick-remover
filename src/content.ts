@@ -1,13 +1,8 @@
 (() => {
   const style = document.createElement('style')
   style.textContent = `
-    /* Hide the entire footer when no start slot is present */
-    [data-polaris-frame-global-ribbon="true"]:not(:has([data-frame-footer-slot="start"])) {
-      display: none !important;
-    }
-
     /* Keep the footer and pagination, but hide the Sidekick outlet */
-    [data-polaris-frame-global-ribbon="true"]:has([data-frame-footer-slot="start"]) [data-frame-footer-outlet="center"] {
+    [data-polaris-frame-global-ribbon="true"] [data-frame-footer-outlet="center"] {
       display: none !important;
     }
 
